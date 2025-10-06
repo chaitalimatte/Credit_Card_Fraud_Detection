@@ -1,2 +1,7 @@
 # Credit_Card_Fraud_Detection
 Credit Card Fraud Detection using Python aims to identify fraudulent transactions using machine learning models. The project includes data preprocessing, feature selection, and classification with algorithms like Logistic Regression and Random Forest. It ensures secure and accurate fraud detection for financial systems.
+This project focuses on detecting fraudulent credit card transactions using advanced machine learning techniques in Python. With the rapid growth of online transactions, financial institutions face increasing risks of fraud. The main objective of this project is to build a predictive model that can accurately distinguish between genuine and fraudulent transactions.
+
+The process involves data preprocessing, handling missing values, and balancing the imbalanced dataset using SMOTE (Synthetic Minority Over-sampling Technique). Exploratory Data Analysis (EDA) is performed to identify patterns, correlations, and insights within the dataset. Various machine learning algorithms such as Logistic Regression, Decision Tree, Random Forest, and XGBoost are trained and compared to find the most effective model.
+
+The model’s performance is evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC score to ensure reliability and robustness. The project highlights how data-driven approaches can enhance the detection of fraudulent activities, ensuring the safety and integrity of digital payment systems.
